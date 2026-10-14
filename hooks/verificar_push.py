@@ -39,3 +39,4 @@ def verificar_push(comando):
     print("Hook previo al push: pruebas aprobadas; se permite continuar.\n" + salida, file=sys.stderr)
 
 #hola fork leo
+# Segundo comentario: el exit code 2 le indica a Claude Code que bloquee el push.

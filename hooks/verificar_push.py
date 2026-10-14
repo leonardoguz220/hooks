@@ -37,3 +37,5 @@ def verificar_push(comando):
         sys.exit(2)
 
     print("Hook previo al push: pruebas aprobadas; se permite continuar.\n" + salida, file=sys.stderr)
+
+#hola fork leo
